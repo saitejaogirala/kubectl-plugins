@@ -8,3 +8,7 @@ Kubectl plugin that can be used to get namespace for any resource
 ```
 kubectl getns resourcetype resourcename
 ```
+# Check plugins
+```
+kubectl plugin list
+```
